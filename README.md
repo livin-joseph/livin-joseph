@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Science
-- 💬 Ask me about anything
 - 🤔 Github rookie
 <!--
 **livin-joseph/livin-joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
