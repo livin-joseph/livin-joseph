@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ML
-- 🤝 I’m looking to collaborate on ML projects, especially those involving real-world datasets.
+- 🤝 I’m looking to collaborate on Supervised and Unsupervised Learning projects.
 - 💬 Ask me about data science, predictive modeling or programming concepts!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/livin-joseph/)
 
