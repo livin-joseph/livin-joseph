@@ -47,7 +47,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livin-joseph&hide=javascript&layout=compact&hide_progress=true&theme=aura)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=livin-joseph&theme=aura)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=livin-joseph&theme=aura)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=livin-joseph&color=0f0f0f&style=for-the-badge)
 
