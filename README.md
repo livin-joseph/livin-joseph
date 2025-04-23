@@ -45,7 +45,7 @@
 ## 📊 Profile Stats
 ![Livin's GitHub stats](https://github-readme-stats.vercel.app/api?username=livin-joseph&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livin-joseph&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livin-joseph&hide=javascript&layout=compact&hide_progress=true&theme=aura)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=livin-joseph&theme=aura)](https://git.io/streak-stats)
 
